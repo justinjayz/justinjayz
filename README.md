@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justin
-- 🌱 I’m currently learning Backend Engineering at AltSchool Africa in the School of Engineering
+- 🌱 I’m currently learning Backend Engineering at AltSchool Africa
 - 📫 How to reach me: justinnwaeze@gmail.com, https://linkedin.com/in/justinnwaeze
 
 <!---
