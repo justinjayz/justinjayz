@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Justin
-- 🌱 A Backend Engineering program student at AltSchool Africa in the School of Engineering
+- 🌱 A Backend Engineering program student at AltSchool Africa. Karatu2024
 - 📫 How to reach me: justinnwaeze@gmail.com, https://linkedin.com/in/justinnwaeze
 
 <!---
